@@ -17,3 +17,9 @@ h2 {
     font-size: 1.1rem;
     font-weight: bold;
 }
+
+.delete-icon {
+    cursor: pointer;
+    font-size: 0.8rem;
+    padding-left: 0.5rem;
+}
